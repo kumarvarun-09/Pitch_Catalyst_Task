@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pitch Catalyst Task</string>
+    <string name="title">Title</string>
+    <string name="check_here_to_delete_this_item">Delete this item</string>
+    <string name="description">Description</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+</resources>
